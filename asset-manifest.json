@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/f-shop/static/css/main.5f361e03.chunk.css",
-    "main.js": "/f-shop/static/js/main.87764e34.chunk.js",
-    "main.js.map": "/f-shop/static/js/main.87764e34.chunk.js.map",
-    "runtime-main.js": "/f-shop/static/js/runtime-main.2d59c721.js",
-    "runtime-main.js.map": "/f-shop/static/js/runtime-main.2d59c721.js.map",
-    "static/css/2.11829350.chunk.css": "/f-shop/static/css/2.11829350.chunk.css",
-    "static/js/2.d4568fe6.chunk.js": "/f-shop/static/js/2.d4568fe6.chunk.js",
-    "static/js/2.d4568fe6.chunk.js.map": "/f-shop/static/js/2.d4568fe6.chunk.js.map",
-    "index.html": "/f-shop/index.html",
-    "precache-manifest.9cc3649f393ab1ae3fed40c0b7e3367d.js": "/f-shop/precache-manifest.9cc3649f393ab1ae3fed40c0b7e3367d.js",
-    "service-worker.js": "/f-shop/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/f-shop/static/css/2.11829350.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/f-shop/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d4568fe6.chunk.js.LICENSE.txt": "/f-shop/static/js/2.d4568fe6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/f-shop/static/media/logo.5d5d9eef.svg"
+    "main.css": "/F-Shop/static/css/main.5f361e03.chunk.css",
+    "main.js": "/F-Shop/static/js/main.7bdb2b81.chunk.js",
+    "main.js.map": "/F-Shop/static/js/main.7bdb2b81.chunk.js.map",
+    "runtime-main.js": "/F-Shop/static/js/runtime-main.cdaf9036.js",
+    "runtime-main.js.map": "/F-Shop/static/js/runtime-main.cdaf9036.js.map",
+    "static/css/2.11829350.chunk.css": "/F-Shop/static/css/2.11829350.chunk.css",
+    "static/js/2.d4568fe6.chunk.js": "/F-Shop/static/js/2.d4568fe6.chunk.js",
+    "static/js/2.d4568fe6.chunk.js.map": "/F-Shop/static/js/2.d4568fe6.chunk.js.map",
+    "index.html": "/F-Shop/index.html",
+    "precache-manifest.dbd1de43752c5409f82f7993bd140bfd.js": "/F-Shop/precache-manifest.dbd1de43752c5409f82f7993bd140bfd.js",
+    "service-worker.js": "/F-Shop/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/F-Shop/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/F-Shop/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d4568fe6.chunk.js.LICENSE.txt": "/F-Shop/static/js/2.d4568fe6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/F-Shop/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d59c721.js",
+    "static/js/runtime-main.cdaf9036.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.d4568fe6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.87764e34.chunk.js"
+    "static/js/main.7bdb2b81.chunk.js"
   ]
 }
